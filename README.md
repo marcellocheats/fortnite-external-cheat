@@ -20,7 +20,6 @@
 
 ## <a id="content"></a>🌐 〢 Read
 - Free and free version You just need to create a driver for it to work. and use it at your own risk, If you don't want to create a driver, please contact Discord for a safer alternative.
-- **Scroll Down for Raed more**
 
 
 
